@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "diagnostics": true,
+        "jsx": "react",
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "target": "es5"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BasicTypescript",
+  "globalDependencies": {
+    "es6-promise": "github:DefinitelyTyped/DefinitelyTyped/es6-promise/es6-promise.d.ts#830e8ebd9ef137d039d5c7ede24a421f08595f83",
+    "microsoft-ajax": "github.com/pjmagee/DefinitelyTyped/blob/master/microsoft-ajax/microsoft.ajax.d.ts",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "sharepoint": "registry:dt/sharepoint#0.0.0+20160602140352",
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20160524142046"
+  },
+  "devDependencies": {
+    "es6-promise": "registry:npm/es6-promise#3.0.0+20160211003958"
+  }
+}
